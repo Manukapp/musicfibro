@@ -1,0 +1,7 @@
+[submodule "ICA-AROMA"]
+	path = ICA-AROMA
+	url = https://github.com/maartenmennes/ICA-AROMA.git
+[submodule "inputs/ds001928"]
+	path = inputs/ds001928
+	url = https://github.com/OpenNeuroDatasets/ds001928.git
+	datalad-id = c1bea770-78b0-11e9-8eea-0242ac130016
