@@ -9,3 +9,7 @@
 	path = transformations
 	url = ./transformations
 	datalad-id = 873231d6-65fe-4db9-82af-653d0c280893
+[submodule "xfm"]
+	path = xfm
+	url = ./xfm
+	datalad-id = 00ff46fb-7123-42d0-9622-c0c4a07882a4
