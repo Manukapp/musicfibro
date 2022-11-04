@@ -5,11 +5,11 @@
 	path = inputs/ds001928
 	url = https://github.com/OpenNeuroDatasets/ds001928.git
 	datalad-id = c1bea770-78b0-11e9-8eea-0242ac130016
-[submodule "transformations"]
-	path = transformations
-	url = ./transformations
-	datalad-id = 873231d6-65fe-4db9-82af-653d0c280893
 [submodule "xfm"]
 	path = xfm
 	url = ./xfm
 	datalad-id = 00ff46fb-7123-42d0-9622-c0c4a07882a4
+[submodule "tramsformation"]
+	path = tramsformation
+	url = ./tramsformation
+	datalad-id = 873231d6-65fe-4db9-82af-653d0c280893
